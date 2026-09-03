@@ -99,12 +99,12 @@ export const siteContent = {
     welcomeText:
       "A personal welcome awaits at Temple Town Stay.",
     placeholderText:
-      "Pavish warmly welcomes every guest to Temple Town Stay. His vision is to create a calm, comfortable home away from home for families and travellers visiting Kanchipuram.",
+      "PANDIAN K warmly welcomes every guest to Temple Town Stay. His vision is to create a calm, comfortable home away from home for families and travellers visiting Kanchipuram.",
     // TODO: FUTURE BACKEND - Replace these placeholders after verified owner/CEO details
     // and approved photo are received. Do not publish placeholders in the live site.
-    ownerName: "Pavish",
+    ownerName: "PANDIAN K",
     ownerRole: "Founder & Host",
-    ownerBio: "Pavish is the founder and host of Temple Town Stay. With a passion for hospitality and a deep connection to Kanchipuram, he envisioned a comfortable, family-friendly retreat for travellers exploring the temple city. His goal is to make every guest feel at home from the moment they arrive.",
+    ownerBio: "PANDIAN K is the founder and host of Temple Town Stay. With a passion for hospitality and a deep connection to Kanchipuram, he envisioned a comfortable, family-friendly retreat for travellers exploring the temple city. His goal is to make every guest feel at home from the moment they arrive.",
     ownerImage: "/images/owner/owner.jpg" // TODO: Replace with approved owner photo when received,
   },
 
