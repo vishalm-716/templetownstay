@@ -21,14 +21,14 @@ export const siteContent = {
 
   contact: {
     email: "templetownstay@gmail.com",
-    phoneDisplay: "8489220595",
-    phoneE164: "+918489220595",
+    phoneDisplay: "8220226123",
+    phoneE164: "+918220226123",
     // WhatsApp number configured — international format, no +, no spaces
     whatsAppNumber: "918489220595",
     googleMapsDirectionsUrl:
-      "https://maps.app.goo.gl/eSTkEQNk2PqyCEyJ7",
+      "https://maps.app.goo.gl/Hm3SddrGNE5BqmvBA",
     googleMapsEmbedUrl:
-      "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.5923007851916!2d79.69169712483954!3d12.869588687436464!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52c300466bf3f5%3A0x5e5789e2787092b4!2sThimmasamudram!5e0!3m2!1sen!2sin!4v1788340279690!5m2!1sen!2sin",
+      "https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3889.539433947294!2d79.69403087507476!3d12.87299678743336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMTLCsDUyJzIyLjgiTiA3OcKwNDEnNDcuOCJF!5e0!3m2!1sen!2sin!4v1788500242275!5m2!1sen!2sin",
   } as ContactInfo,
 
   hero: {
