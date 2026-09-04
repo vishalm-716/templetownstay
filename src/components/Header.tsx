@@ -80,7 +80,7 @@ export default function Header() {
             </a>
             {waReady ? (
               <a href={whatsAppUrl} target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 px-4 py-2.5 text-sm font-semibold text-white bg-terracotta hover:bg-terracotta/90 rounded-xl transition-all min-h-[44px]">
-                <MessageCircle size={16} /> Enquire on WhatsApp
+                <MessageCircle size={16} /> Book Now via WhatsApp
               </a>
             ) : (
               <span className="flex items-center gap-2 px-4 py-2.5 text-sm font-medium text-stone-400 bg-stone-100 rounded-xl min-h-[44px] cursor-not-allowed">

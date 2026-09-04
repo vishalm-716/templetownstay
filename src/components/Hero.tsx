@@ -42,7 +42,7 @@ export default function Hero() {
           <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.7, duration: 0.8 }} className="flex flex-col sm:flex-row gap-4 mb-10">
             {waReady ? (
               <a href={waUrl} target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center gap-2.5 px-7 py-4 text-base font-semibold text-white bg-terracotta hover:bg-terracotta/90 rounded-2xl transition-all min-h-[48px] shadow-lg shadow-terracotta/20">
-                <MessageCircle size={20} /> Enquire on WhatsApp
+                <MessageCircle size={20} /> Book Now via WhatsApp
               </a>
             ) : (
               <span className="inline-flex items-center justify-center gap-2.5 px-7 py-4 text-base font-medium text-stone-400 bg-stone-100 rounded-2xl min-h-[48px]">

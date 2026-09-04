@@ -51,7 +51,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3 className="text-base font-heading font-bold text-charcoal">Chat on WhatsApp</h3>
-                  <p className="text-base text-charcoal/60">Enquire on WhatsApp</p>
+                  <p className="text-base text-charcoal/60">Book Now via WhatsApp</p>
                 </div>
               </a>
             ) : null}

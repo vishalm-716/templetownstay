@@ -24,7 +24,7 @@ export const siteContent = {
     phoneDisplay: "8220226123",
     phoneE164: "+918220226123",
     // WhatsApp number configured — international format, no +, no spaces
-    whatsAppNumber: "918489220595",
+    whatsAppNumber: "918220226123",
     googleMapsDirectionsUrl:
       "https://maps.app.goo.gl/Hm3SddrGNE5BqmvBA",
     googleMapsEmbedUrl:

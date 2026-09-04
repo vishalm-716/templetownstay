@@ -61,7 +61,7 @@ export default function WhatsAppEnquiryForm() {
 
   return (
     <form onSubmit={handleSubmit} className="bg-white/70 backdrop-blur-sm rounded-3xl p-8 border border-stone-100 space-y-5">
-      <h3 className="text-lg font-heading font-bold text-charcoal">Send an Enquiry</h3>
+      <h3 className="text-lg font-heading font-bold text-charcoal">Book Now</h3>
 
       <div>
         <label htmlFor="enq-name" className="block text-sm font-medium text-charcoal/70 mb-1.5">Full Name *</label>
@@ -111,7 +111,7 @@ export default function WhatsAppEnquiryForm() {
       )}
 
       <button type="submit" className="w-full flex items-center justify-center gap-2 px-6 py-3.5 bg-terracotta hover:bg-terracotta/90 text-white font-semibold rounded-2xl transition-all min-h-[48px]">
-        <Send size={16} /> Send Enquiry via WhatsApp
+        <Send size={16} /> Book Now via WhatsApp
       </button>
     </form>
   );
