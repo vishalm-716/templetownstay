@@ -36,7 +36,7 @@ export const siteContent = {
     heading: "A Comfortable Stay, Close to Kanchipuram\u2019s Timeless Charm.",
     subheading:
       "Temple Town Stay offers welcoming Family Suite Rooms for travellers, tourists, and families looking for a peaceful and comfortable stay in Kanchipuram.",
-    image: "/images/gallery/gallery-30.jpg",
+    image: "/images/hero/hero-night.jpg",
     roomLabel: "Family Suite Rooms",
     occupancyLabel: "2 Adults + 1 Child",
     detailBadge: "12 Rooms Across Two Floors",
